@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalksPereira", "TechTalksPereira.csproj", "{1B4FA4CD-B09A-4012-9F02-290BC9978F8C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireGitHubModelsDemo.Host", "AspireGitHubModelsDemo.Host\AspireGitHubModelsDemo.Host.csproj", "{5958BE8B-72EB-4EF0-B98E-4B329525946F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireGitHubModelsDemo.ServiceDefaults", "AspireGitHubModelsDemo.ServiceDefaults\AspireGitHubModelsDemo.ServiceDefaults.csproj", "{08E3C066-03EF-47A6-AEBD-71AF33F1F55D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireGitHubModelsDemo.WebApplication", "AspireGitHubModelsDemo.WebApplication\AspireGitHubModelsDemo.WebApplication.csproj", "{679289E4-3AEF-4DD3-A714-7B50BBAC2DEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +12,17 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1B4FA4CD-B09A-4012-9F02-290BC9978F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1B4FA4CD-B09A-4012-9F02-290BC9978F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1B4FA4CD-B09A-4012-9F02-290BC9978F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1B4FA4CD-B09A-4012-9F02-290BC9978F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5958BE8B-72EB-4EF0-B98E-4B329525946F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5958BE8B-72EB-4EF0-B98E-4B329525946F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5958BE8B-72EB-4EF0-B98E-4B329525946F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5958BE8B-72EB-4EF0-B98E-4B329525946F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08E3C066-03EF-47A6-AEBD-71AF33F1F55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E3C066-03EF-47A6-AEBD-71AF33F1F55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E3C066-03EF-47A6-AEBD-71AF33F1F55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E3C066-03EF-47A6-AEBD-71AF33F1F55D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{679289E4-3AEF-4DD3-A714-7B50BBAC2DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679289E4-3AEF-4DD3-A714-7B50BBAC2DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679289E4-3AEF-4DD3-A714-7B50BBAC2DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679289E4-3AEF-4DD3-A714-7B50BBAC2DEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
